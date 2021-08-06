@@ -1,2 +1,2 @@
 # Coursework
-Repo for codes learned in courses.
+Some basic commands done during my learning journey with Data Science.
