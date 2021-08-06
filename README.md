@@ -1,2 +1,2 @@
 # Coursework
-Some basic commands done during my learning journey with Data Science.
+Some commands done during my learning journey with Data Science.
