@@ -1,2 +1,3 @@
 # Course
-Some commands done during my learning journey with Data Science.
+
+Some commands made during my learning journey
