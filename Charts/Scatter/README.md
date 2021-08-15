@@ -1,4 +1,4 @@
-# Charts Scatter and Bubble using ggplot2 and ploty.
+# Charts Scatter and Bubble using ggplot2 and plotly.
 
 
 <p align="center">
