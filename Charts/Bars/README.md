@@ -1,4 +1,4 @@
-# Charts Bars using ggplot2 and ploty.
+# Charts Bars using ggplot2 and plotly.
 
 
 <p align="center">
