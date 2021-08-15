@@ -1,4 +1,4 @@
-# Charts Boxplot using ggplot2 and ploty.
+# Charts Boxplot using ggplot2 and plotly.
 
 
 <p align="center">
