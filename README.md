@@ -1,3 +1,3 @@
-# Course
+# Study
 
-Some commands made during my learning journey
+Repo for studies.
