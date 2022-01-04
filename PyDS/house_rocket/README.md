@@ -16,6 +16,6 @@ port=$PORT\n\
 
 web: sh setup.sh && streamlit run dashboard.py
 
-## Requirements.txt
+## requirements.txt
 
 pip freeze > requirements.txt
